@@ -15,8 +15,5 @@ public class class004 {
         double d = 118.9876543; // 64 Bites, 8 Bytes (just need to enter it )
 
 
-        // Non primitive Data Types (user defined)
-        String name = "Pramod"; // String - bunch of char(collection of chars)
-        // Array, Class- User Data Types.
     }
 }
